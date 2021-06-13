@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300&family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.background {
+    background-color: rgb(11, 11, 12);
+}
+
+.title img {
+    margin: 20px;
+    max-width: 10%;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Syne Mono', monospace;
+    color: limegreen;
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+.title {
+    display: flex;
+    justify-content: left;
+    flex-direction: none;
+}
+
+.column {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.column a {
+    background-color: rgba(0, 0, 0, 0.699);
+    font-family: 'Recursive', sans-serif;
+    color: rgba(226, 226, 0, 0.829);
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.makemeblack {
+    background-color: black;
+}
+
+.error-head {
+    font-family: 'Press Start 2P', cursive;
+    color: brown;
+    font-size: 25px;
+    /* font-weight: 900; */
+}
+
+.error {
+    font-family: 'Press Start 2P', cursive;
+    color: brown;
+    font-size: 15px;
+    /* font-weight: 900; */
+}
+
+.cyberlock {
+    background-color: black;
+    border-style: solid;
+    border-width: 15px;
+    padding: 50px;
+    background-size: cover;
+}
+
+.column p {
+    font-family: 'Recursive', sans-serif;
+    color: brown;
+    /* background-color: rgba(0, 0, 0, 0.315); */
+    background-color: rgba(0, 0, 0, 0.699);
+    padding: 5px;
+}
+
+.home a {
+    font-family: 'Syne Mono', monospace;
+    color: brown;
+    text-decoration: none;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    padding: 3px;
+}
+
+.sotlimg img {
+    float: left;
+    display: flex;
+    margin: 20px;
+    max-width: 20%;
+    height: auto;
+}
+
+.sotlimg p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    color: white;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.sotlimg li {
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    color: brown;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.hitman-img img {
+    float: left;
+    display: flex;
+    margin: 20px;
+    max-width: 20%;
+    height: auto;
+}
+
+.hitman-img p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    color: white;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.makemered p {
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.makemeyellow h2 {
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    font-family: 'Recursive', sans-serif;
+    color: rgba(226, 226, 0, 0.829);
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.firearm-img p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    color: white;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.firearm-img img {
+    float: left;
+    display: flex;
+    margin: 20px;
+    max-width: 20%;
+    height: auto;
+}
+
+.makemeredagain p {
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.drugs-img p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    color: white;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.makemeredagaintwice p {
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-family: 'Recursive', sans-serif;
+    /* background-color: rgba(13, 11, 22, 0.76); */
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px;
+    padding: 8px
+}
+
+.drugs-img img {
+    float: left;
+    display: flex;
+    margin: 20px;
+    max-width: 20%;
+    height: auto;
+}
+
+.discount {
+    background: url(images/homeinsurance.jpg) no-repeat center center fixed;
+}
+
+.insurance a {
+    display: flex;
+    color: white;
+    font-size: 36px;
+    text-decoration: none;
+    text-align: center;
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.699);
+}
